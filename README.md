@@ -1,4 +1,4 @@
-https://kirti-cnp.visualstudio.com/CNP_FirstProject/_apis/build/status/CNP_FirstProject-Maven-CI?branchName=master
+[![Build Status](https://kirti-cnp.visualstudio.com/CNP_FirstProject/_apis/build/status/CNP_FirstProject-Maven-CI?branchName=master)](https://kirti-cnp.visualstudio.com/CNP_FirstProject/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
